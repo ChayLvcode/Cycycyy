@@ -1,0 +1,3 @@
+[submodule "Chay-Blog/themes/hugo-bearblog"]
+	path = Chay-Blog/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
